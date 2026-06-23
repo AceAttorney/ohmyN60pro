@@ -21,6 +21,6 @@
 # echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 # echo 'src-git smpackage https://github.com/kenzok8/small-package' >>feeds.conf.default
 # rm -rf feeds/smpackage/{base-files,dnsmasq,firewall*,fullconenat,libnftnl,nftables,ppp,opkg,ucl,upx,vsftpd*,wireless-regdb}
-echo 'src-git fengqipackages https://github.com/fengqi/immortalwrt-packages.git;openwrt-24.10' >>feeds.conf.default
+echo 'src-git fengqipackages https://github.com/AceAttorney/luci-app-uugamebooster.git;openwrt-24.10' >>feeds.conf.default
 # git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
 # chmod -R 755 ./package/luci-app-adguardhome/*
